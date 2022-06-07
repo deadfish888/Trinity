@@ -3,7 +3,7 @@
 
 ## **Demo** 
 ---
-> **Khách hang**
+> **Khách hàng**
 
 1. Trang chủ 
 
