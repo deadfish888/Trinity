@@ -23,6 +23,10 @@
 
 ![image](https://user-images.githubusercontent.com/53229758/172412688-5ac0b85a-2bc2-4391-9b37-3a90ea826aa4.png)
 
-5. Tiến hành thanh toán 
+5. Điền thông tin cá nhân và tiến hành thanh toán 
 
+![image](https://user-images.githubusercontent.com/53229758/172413107-29502f1b-a1d8-4817-a9c7-b6954ac14364.png)
 
+## **Author**
+---
+Trinity
