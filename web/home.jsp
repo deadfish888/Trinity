@@ -10,7 +10,6 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Trinity Store</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css" />
         <link rel="stylesheet" href="assets/css/main.css" />
         <noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
@@ -53,13 +52,11 @@
 
                         <ul>
                             <li><a href="about.html">About Us</a></li>
-                            <li><a href="blog.html">Blog</a></li>
-                            <li><a href="testimonials.html">Testimonials</a></li>
-                            <li><a href="terms.html">Terms</a></li>
+                            <li><a href="contact.html">Contact Us</a></li>
                         </ul>
                     </li>
 
-                    <li><a href="contact.html">Contact Us</a></li>
+                    
                 </ul>
             </nav>
 
@@ -204,42 +201,7 @@
                             <p><strong>- John Doe</strong> </p>
                         </div>
                     </div>
-
                     <p class="text-center"><a href="testimonials.html">Read More &nbsp;<i class="fa fa-long-arrow-right"></i></a></p>
-
-                    <br>
-
-                    <h2 class="h2">Blog</h2>
-
-                    <div class="row">
-                        <div class="col-sm-4 text-center">
-                            <img src="images/blog-1-720x480.jpg" class="img-fluid" alt="" />
-
-                            <h2 class="m-n"><a href="#">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</a></h2>
-
-                            <p> John Doe &nbsp;|&nbsp; 12/06/2020 10:30</p>
-                        </div>
-
-                        <div class="col-sm-4 text-center">
-                            <img src="images/blog-2-720x480.jpg" class="img-fluid" alt="" />
-
-                            <h2 class="m-n"><a href="#">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</a></h2>
-
-                            <p> John Doe &nbsp;|&nbsp; 12/06/2020 10:30</p>
-                        </div>
-
-                        <div class="col-sm-4 text-center">
-                            <img src="images/blog-3-720x480.jpg" class="img-fluid" alt="" />
-
-                            <h2 class="m-n"><a href="#">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</a></h2>
-
-                            <p> John Doe &nbsp;|&nbsp; 12/06/2020 10:30</p>
-                        </div>
-                    </div>
-
-                    <p class="text-center"><a href="blog.html">Read More &nbsp;<i class="fa fa-long-arrow-right"></i></a></p>
-
-
                 </div>
             </div>
 

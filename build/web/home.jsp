@@ -1,20 +1,20 @@
+<%-- 
+    Document   : index
+    Created on : Jun 7, 2022, 9:18:12 PM
+    Author     : ACER
+--%>
+
+<%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
-<!--
-Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
-Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/Html.html to edit this template
--->
 <html>
     <head>
-        <title>Neko Store</title>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Trinity Store</title>
         <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css" />
         <link rel="stylesheet" href="assets/css/main.css" />
         <noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
-        <!-- <meta http-equiv="refresh" content="0; url=home.jsp"> -->
     </head>
-    <body>
-        <body class="is-preload">
+    <body class="is-preload">
         <!-- Wrapper -->
         <div id="wrapper">
 
@@ -261,6 +261,5 @@ Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/Html.html to edit thi
         <script src="assets/js/jquery.scrollex.min.js"></script>
         <script src="assets/js/main.js"></script>
 
-    </body>
     </body>
 </html>
