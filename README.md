@@ -7,20 +7,22 @@
 
 1. Trang chủ 
 
-![Image]
+![image](https://user-images.githubusercontent.com/53229758/172412202-94730a5e-7398-4174-a488-392495e33ec7.png)
+
 
 2. Menu bar
 
-![Image]
+![image](https://user-images.githubusercontent.com/53229758/172412392-e2f89886-faf5-4af3-85fb-10395c055f8e.png)
+
 
 3. Sản phẩm
 
-![Image]
+![image](https://user-images.githubusercontent.com/53229758/172412605-1f099276-ee92-449d-a63a-566de4306a76.png)
 
 4. Chọn sản phẩm, loại hình, số lượng và đưa vào giỏ hàng
 
-![Image]
+![image](https://user-images.githubusercontent.com/53229758/172412688-5ac0b85a-2bc2-4391-9b37-3a90ea826aa4.png)
 
 5. Tiến hành thanh toán 
 
-![Image]
+
