@@ -12,8 +12,7 @@
 
 2. Menu bar
 
-![image](https://user-images.githubusercontent.com/53229758/172519107-f5b9ee04-3db0-46f8-b416-6e9e8dd88e22.png)
-
+![image](https://user-images.githubusercontent.com/53229758/172530538-872bbebf-c67b-47ac-aff8-7d3734b48c0a.png)
 
 3. Sản phẩm
 
@@ -23,7 +22,7 @@
 
 ![image](https://user-images.githubusercontent.com/53229758/172412688-5ac0b85a-2bc2-4391-9b37-3a90ea826aa4.png)
 
-5. Điền thông tin cá nhân và tiến hành thanh toán 
+5. Trong mục Checkout, điền thông tin cá nhân và tiến hành thanh toán 
 
 ![image](https://user-images.githubusercontent.com/53229758/172527754-9226e599-4ad0-4fbc-ad29-27557b20c931.png)
 
