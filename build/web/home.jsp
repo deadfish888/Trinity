@@ -10,6 +10,7 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Trinity Store</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css" />
         <link rel="stylesheet" href="assets/css/main.css" />
         <noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
@@ -47,16 +48,7 @@
 
                     <li><a href="checkout.html">Checkout</a></li>
 
-                    <li>
-                        <a href="#" class="dropdown-toggle">About</a>
-
-                        <ul>
-                            <li><a href="about.html">About Us</a></li>
-                            <li><a href="contact.html">Contact Us</a></li>
-                        </ul>
-                    </li>
-
-                    
+                    <li><a href="about.html">About</a></li>
                 </ul>
             </nav>
 
@@ -210,7 +202,7 @@
                 <div class="inner">
                     <section>
                         <h2>Contact Us</h2>
-                        <form method="post" action="#">
+                        <form method="get" action="Contact">
                             <div class="fields">
                                 <div class="field half">
                                     <input type="text" name="name" id="name" placeholder="Name" />
@@ -232,7 +224,7 @@
                                     <label>&nbsp;</label>
 
                                     <ul class="actions">
-                                        <li><input type="submit" value="Send Message" class="primary" /></li>
+                                        <li><input type="submit" value="Send Message" class="primary" /></li> ${response}
                                     </ul>
                                 </div>
                             </div>
@@ -242,7 +234,7 @@
                         <h2>Contact Info</h2>
                         <ul class="alt">
                             <li><span class="fa fa-github"></span> <a href="https://github.com/nekon0/Trinity">Our Project</a></li>
-                            <li><span class="fa fa-map-pin"></span> DE336, FBT University</li>
+                            <li><span class="fa fa-map-pin"></span> <a href="https://goo.gl/maps/ojwCjTqRteiA4B9U7"> DE336, FBT University</a></li>
                         </ul>
                     </section>
 
