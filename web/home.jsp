@@ -24,7 +24,7 @@
                 <div class="inner">
 
                     <!-- Logo -->
-                    <a href="index.html" class="logo">
+                    <a href="home.jsp" class="logo">
                         <span class="fa fa-book"></span> <span class="title">Book Store</span>
                     </a>
 
@@ -42,7 +42,7 @@
             <nav id="menu">
                 <h2>Menu</h2>
                 <ul>
-                    <li><a href="index.html" class="active">Home</a></li>
+                    <li><a href="home.jsp" class="active">Home</a></li>
 
                     <li><a href="products.html">Products</a></li>
 
@@ -193,7 +193,38 @@
                             <p><strong>- John Doe</strong> </p>
                         </div>
                     </div>
-                    <p class="text-center"><a href="testimonials.html">Read More &nbsp;<i class="fa fa-long-arrow-right"></i></a></p>
+                    <br>
+
+                        <h2 class="h2">Blog</h2>
+
+                        <div class="row">
+                            <div class="col-sm-4 text-center">
+                                <img src="images/blog-1-720x480.jpg" class="img-fluid" alt="" />
+
+                                <h2 class="m-n"><a href="#">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</a></h2>
+
+                                <p> John Doe &nbsp;|&nbsp; 12/06/2020 10:30</p>
+                            </div>
+
+                            <div class="col-sm-4 text-center">
+                                <img src="images/blog-2-720x480.jpg" class="img-fluid" alt="" />
+
+                                <h2 class="m-n"><a href="#">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</a></h2>
+
+                                <p> John Doe &nbsp;|&nbsp; 12/06/2020 10:30</p>
+                            </div>
+
+                            <div class="col-sm-4 text-center">
+                                <img src="images/blog-3-720x480.jpg" class="img-fluid" alt="" />
+
+                                <h2 class="m-n"><a href="#">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</a></h2>
+
+                                <p> John Doe &nbsp;|&nbsp; 12/06/2020 10:30</p>
+                            </div>
+                        </div>
+
+                        <p class="text-center"><a href="#">Read More &nbsp;<i class="fa fa-long-arrow-right"></i></a></p>
+                        
                 </div>
             </div>
 
@@ -202,7 +233,7 @@
                 <div class="inner">
                     <section>
                         <h2>Contact Us</h2>
-                        <form method="get" action="Contact">
+                        <form method="get" action="#">
                             <div class="fields">
                                 <div class="field half">
                                     <input type="text" name="name" id="name" placeholder="Name" />
@@ -220,13 +251,14 @@
                                     <textarea name="message" id="message" rows="3" placeholder="Notes"></textarea>
                                 </div>
 
-                                <div class="field text-right">
+                                <div class="field half text-right">
                                     <label>&nbsp;</label>
 
                                     <ul class="actions">
-                                        <li><input type="submit" value="Send Message" class="primary" /></li> ${response}
+                                        <li><input type="submit" value="Send Message" class="primary" /></li> 
                                     </ul>
                                 </div>
+                                
                             </div>
                         </form>
                     </section>
