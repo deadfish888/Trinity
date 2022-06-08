@@ -12,7 +12,7 @@
 
 2. Menu bar
 
-![image](https://user-images.githubusercontent.com/53229758/172412392-e2f89886-faf5-4af3-85fb-10395c055f8e.png)
+![image](https://user-images.githubusercontent.com/53229758/172519107-f5b9ee04-3db0-46f8-b416-6e9e8dd88e22.png)
 
 
 3. Sản phẩm
@@ -25,7 +25,7 @@
 
 5. Điền thông tin cá nhân và tiến hành thanh toán 
 
-![image](https://user-images.githubusercontent.com/53229758/172413107-29502f1b-a1d8-4817-a9c7-b6954ac14364.png)
+![image](https://user-images.githubusercontent.com/53229758/172527754-9226e599-4ad0-4fbc-ad29-27557b20c931.png)
 
 ## **Author**
 ---
