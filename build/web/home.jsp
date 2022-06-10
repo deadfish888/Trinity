@@ -24,7 +24,7 @@
                 <div class="inner">
 
                     <!-- Logo -->
-                    <a href="home.jsp" class="logo">
+                    <a href="index.html" class="logo">
                         <span class="fa fa-book"></span> <span class="title">Book Store</span>
                     </a>
 
@@ -42,7 +42,7 @@
             <nav id="menu">
                 <h2>Menu</h2>
                 <ul>
-                    <li><a href="home.jsp" class="active">Home</a></li>
+                    <li><a href="index.html" class="active">Home</a></li>
 
                     <li><a href="products.html">Products</a></li>
 
@@ -87,8 +87,11 @@
                 <div class="inner">
                     <!-- About Us -->
                     <header id="inner">
-                        <h1>Find your new book!</h1>
-                        <p>Etiam quis viverra lorem, in semper lorem. Sed nisl arcu euismod sit amet nisi euismod sed cursus arcu elementum ipsum arcu vivamus quis venenatis orci lorem ipsum et magna feugiat veroeros aliquam. Lorem ipsum dolor sit amet nullam dolore.</p>
+                        <h1>What spices are you looking for in your book?</h1>
+                        <blockquote>
+                        <p><i>"Books are the quietest and most constant of friends; they are the most accessible and wisest of counselors, and the most patient of teachers."</i></p>
+                        <cite>Charles W. Eliot</cite>
+                        </blockquote>
                     </header>
 
                     <br>
@@ -102,11 +105,11 @@
                                 <img src="images/product-1-720x480.jpg" alt="" />
                             </span>
                             <a href="product-details.html">
-                                <h2>Lorem ipsum dolor sit amet, consectetur</h2>
+                                <h2>Pride and Prejudice</h2>
 
                                 <p><del>$19.00</del> <strong>$19.00</strong></p>
 
-                                <p>Vestibulum id est eu felis vulputate hendrerit uspendisse dapibus turpis in </p>
+                                <p>It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife. </p>
                             </a>
                         </article>
                         <article class="style2">
@@ -114,11 +117,11 @@
                                 <img src="images/product-2-720x480.jpg" alt="" />
                             </span>
                             <a href="product-details.html">
-                                <h2>Lorem ipsum dolor sit amet, consectetur</h2>
+                                <h2>To Kill A Mockingbird</h2>
 
                                 <p><del>$19.00</del> <strong>$19.00</strong></p>
 
-                                <p>Vestibulum id est eu felis vulputate hendrerit uspendisse dapibus turpis in </p>
+                                <p>'Shoot all the bluejays you want, if you can hit 'em, but remember it's a sin to kill a mockingbird.' </p>
                             </a>
                         </article>
                         <article class="style3">
@@ -126,11 +129,11 @@
                                 <img src="images/product-3-720x480.jpg" alt="" />
                             </span>
                             <a href="product-details.html">
-                                <h2>Lorem ipsum dolor sit amet, consectetur</h2>
+                                <h2>The Godfather</h2>
 
                                 <p><del>$19.00</del> <strong>$19.00</strong></p>
 
-                                <p>Vestibulum id est eu felis vulputate hendrerit uspendisse dapibus turpis in </p>
+                                <p>“I'll make him an offer he can't refuse.” </p>
                             </a>
                         </article>
 
@@ -139,11 +142,11 @@
                                 <img src="images/product-4-720x480.jpg" alt="" />
                             </span>
                             <a href="product-details.html">
-                                <h2>Lorem ipsum dolor sit amet, consectetur</h2>
+                                <h2>Tắt Đèn</h2>
 
                                 <p><del>$19.00</del> <strong>$19.00</strong></p>
 
-                                <p>Vestibulum id est eu felis vulputate hendrerit uspendisse dapibus turpis in </p>
+                                <p>“Thà ngồi tù. Để cho chúng nó làm tình làm tội mãi thế, tôi không chịu được” </p>
                             </a>
                         </article>
 
@@ -152,11 +155,13 @@
                                 <img src="images/product-5-720x480.jpg" alt="" />
                             </span>
                             <a href="product-details.html">
-                                <h2>Lorem ipsum dolor sit amet, consectetur</h2>
+                                <h2>Tuổi thơ dữ dội</h2>
 
                                 <p><del>$19.00</del> <strong>$19.00</strong></p>
 
-                                <p>Vestibulum id est eu felis vulputate hendrerit uspendisse dapibus turpis in </p>
+                                <p>Sông Ô Lâu đôi bờ trắng tóc lau<br>
+
+                                    Hát lời thế kháng chiến đến bạc đầu </p>
                             </a>
                         </article>
 
@@ -165,11 +170,11 @@
                                 <img src="images/product-6-720x480.jpg" alt="" />
                             </span>
                             <a href="product-details.html">
-                                <h2>Lorem ipsum dolor sit amet, consectetur</h2>
+                                <h2>Chí Phèo</h2>
 
                                 <p><del>$19.00</del> <strong>$19.00</strong></p>
 
-                                <p>Vestibulum id est eu felis vulputate hendrerit uspendisse dapibus turpis in </p>
+                                <p>“Người ta chỉ xấu xa, hư hỏng trước đôi mắt ráo hoảnh của phường ích kỷ ; và nước mắt là một miếng kính biến hình vũ trụ.” </p>
                             </a>
                         </article>
                     </section>
